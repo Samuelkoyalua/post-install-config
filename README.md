@@ -103,3 +103,27 @@ Input User Information:
 Enter the details for each new user:
 For instance, add "Karen" as a new user by providing her information.
 Similarly, add "Ken" by filling in his details.
+
+
+
+
+
+
+
+<p>
+<img src="https://i.imgur.com/el45iMb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+
+
+Configure SLA. Access Admin Panel: Log in to the administrative panel of the system.
+Navigate to SLA Management:
+Locate and click on the "Manage" option within the Admin Panel interface.
+Access SLA Configuration:
+Select the "SLA" option to access the SLA management settings.
+Define SLA Levels:
+Define SLA levels and their respective response times:
+Create an SLA level named "Sev-A" with a response time of 1 hour, applicable 24/7.
+Establish another SLA level labeled "Sev-B" with a response time of 4 hours, also applicable 24/7.
+Lastly, set up an SLA level called "Sev-C" with an 8-hour response time, applicable during business hours.
