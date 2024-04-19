@@ -80,3 +80,26 @@ Enter the details for each new agent:
 For example, add "Jane" as a new agent by filling in her information.
 Similarly, add "John" by providing his details.</p>
 <br />
+
+
+
+
+
+
+
+
+<p>
+<img src="https://i.imgur.com/x8gqG6A.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+
+Next Configure Users (customers). Access Agent Panel: Log in to the agent panel interface.
+Navigate to Users Section:
+Locate and click on the "Users" option within the Agent Panel interface.
+Add New Users:
+Select the "Add New" option within the Users section.
+Input User Information:
+Enter the details for each new user:
+For instance, add "Karen" as a new user by providing her information.
+Similarly, add "Ken" by filling in his details.
