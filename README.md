@@ -53,11 +53,17 @@ Create a team named "Level I Support" to handle initial support queries or basic
 Create another team called "Level II Support" for more complex or specialized support issues that require escalated attention or expertise.
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/CNi14cc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+Next we'll allow everyone to create tickets,  
+Access Admin Panel: Log in to the administrative panel of the system.
+Navigate to Settings: Locate and click on the "Settings" option within the Admin Panel interface.
+Access User Settings:
+Within the Settings menu, find and select the "User Settings" section.
+Enable Registration Requirement:
+Look for the setting titled "Registration Required".
+Toggle the setting to "Require registration and login to create tickets".</p>
 <br />
 
 <p>
