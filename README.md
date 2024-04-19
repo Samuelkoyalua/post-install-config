@@ -67,9 +67,16 @@ Toggle the setting to "Require registration and login to create tickets".</p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/n8ddLQO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+Next. Access Admin Panel: Log in to the administrative panel of the system.
+Navigate to Agents Section:
+Locate and click on the "Agents" option within the Admin Panel interface.
+Add New Agents:
+Select the "Add New" option within the Agents section.
+Input Agent Information:
+Enter the details for each new agent:
+For example, add "Jane" as a new agent by filling in her information.
+Similarly, add "John" by providing his details.</p>
 <br />
