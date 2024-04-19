@@ -127,3 +127,31 @@ Define SLA levels and their respective response times:
 Create an SLA level named "Sev-A" with a response time of 1 hour, applicable 24/7.
 Establish another SLA level labeled "Sev-B" with a response time of 4 hours, also applicable 24/7.
 Lastly, set up an SLA level called "Sev-C" with an 8-hour response time, applicable during business hours.
+
+
+
+
+
+
+
+
+<p>
+<img src="https://i.imgur.com/WsqCfCL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+Configure Help Topics:
+
+Access Admin Panel: Log in to the administrative panel of the system.
+Navigate to Help Topics Management:
+Locate and click on the "Manage" option within the Admin Panel interface.
+Access Help Topics Configuration:
+Select the "Help Topics" option to access the Help Topics management settings.
+Define Help Topics:
+Create the following Help Topics:
+"Business Critical Outage"
+"Personal Computer Issues"
+"Equipment Request"
+"Password Reset"
+
+That should be it folks, congrats!! ✔️
